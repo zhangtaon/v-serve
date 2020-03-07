@@ -1,1 +1,1 @@
-module.exports  = require('./webpack.start');
+module.exports  = require('./lib/webpack.start');

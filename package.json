@@ -1,6 +1,6 @@
 {
-  "name": "ty-video",
-  "description": "video视频播放器（直播&录播）",
+  "name": "v-serve",
+  "description": "vue devserver 基础包",
   "version": "0.1.0",
   "author": "zto",
   "main": "index.js",
