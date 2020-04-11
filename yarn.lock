@@ -776,9 +776,9 @@
   resolved "https://registry.npm.taobao.org/@types/node/download/@types/node-13.9.2.tgz#ace1880c03594cc3e80206d96847157d8e7fa349"
   integrity sha1-rOGIDANZTMPoAgbZaEcVfY5/o0k=
 
-"@v-util@git+ssh://git@github.com:zhangtaon/v-util.git":
+"@v-util@git+https://github.com/zhangtaon/v-util.git":
   version "0.0.1"
-  resolved "git+ssh://git@github.com:zhangtaon/v-util.git#517522c261564f79d61bc732983f423b22cf9fe6"
+  resolved "git+https://github.com/zhangtaon/v-util.git#517522c261564f79d61bc732983f423b22cf9fe6"
   dependencies:
     file-saver "^2.0.2"
     jquery "2.2.3"
