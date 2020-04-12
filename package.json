@@ -8,9 +8,10 @@
     "serve": "webpack-dev-server --config ./ --open"
   },
   "dependencies": {
-    "@v-util": "git+https://github.com/zhangtaon/v-util.git",
     "@babel/core": "^7.4.3",
     "@babel/preset-env": "^7.4.3",
+    "@v-util": "git+https://github.com/zhangtaon/v-util.git",
+    "axios": "^0.19.2",
     "babel-eslint": "^10.0.1",
     "babel-loader": "^8.0.5",
     "css-loader": "^2.1.1",
